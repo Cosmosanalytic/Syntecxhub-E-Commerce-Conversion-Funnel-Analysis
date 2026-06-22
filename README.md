@@ -1,7 +1,7 @@
-🛒 E-Commerce Conversion Funnel Analysis
+#🛒 E-Commerce Conversion Funnel Analysis
 
 
-📌 Project Overview
+#📌 Project Overview
 
 
 This project analyzes the customer journey through an e-commerce conversion funnel to identify where users drop off before completing a purchase. The analysis focuses on measuring conversion performance across funnel stages, identifying bottlenecks, and providing actionable recommendations to improve customer conversion rates and revenue generation.
@@ -9,14 +9,14 @@ The project combines SQL, Excel, Power Query, Power BI, and PowerPoint to delive
 
 ___________________________________
 
-🎯 Business Problem
+#🎯 Business Problem
 
 E-commerce businesses often attract significant website traffic but struggle to convert visitors into paying customers. Understanding where customers abandon the purchase journey is critical for improving user experience, increasing conversion rates, and maximizing revenue.
 The objective of this project was to analyze customer behavior throughout the conversion funnel and identify the stages causing the highest user abandonment.
 
 _____________________________________
 
-🎯 Project Objectives
+#🎯 Project Objectives
 
 •	Define the e-commerce conversion funnel stages.
 •	Measure user progression across each funnel stage.
@@ -31,7 +31,7 @@ _____________________________________
 
 ________________________________________
 
-❓ Business Questions Answered
+#❓ Business Questions Answered
 
 Funnel Performance
 1.	How many users entered the funnel?
@@ -52,7 +52,7 @@ Customer Behavior
 
 ________________________________________
 
-📂 Dataset Information
+#📂 Dataset Information
 
 The dataset contains user-level e-commerce event data representing customer interactions throughout the shopping journey.
 Dataset Features
@@ -70,7 +70,7 @@ Bounce Flag	Bounce indicator
 
 ________________________________________
 
-🛠️ Tools & Technologies Used
+#🛠️ Tools & Technologies Used
 
 Tool	            Purpose
 Microsoft Excel	Initial data inspection and exploration
@@ -82,7 +82,7 @@ GitHub	         Documentation and project portfolio
 
 ________________________________________
 
-🔍 Project Methodology
+#🔍 Project Methodology
 
 1. Data Inspection (Excel)
    
@@ -158,7 +158,7 @@ Purchase
 
 ________________________________________
 
-📊 Funnel Analysis Results
+#📊 Funnel Analysis Results
 
 Users at Each Funnel Stage
 
@@ -214,7 +214,7 @@ Overall Conversion Rate: 10.80%
 
 ________________________________________
 
-💰 Revenue Analysis
+#💰 Revenue Analysis
 
 Total Revenue
 
@@ -247,7 +247,7 @@ Tablet users generated the highest revenue, contributing approximately 35.3% of 
 
 ________________________________________
 
-📢 Marketing Channel Performance
+#📢 Marketing Channel Performance
 
 Channel	       Purchases	             Revenue
 Email	             279	               $308,902.10
@@ -261,7 +261,7 @@ Email Marketing and Google Ads generated the highest purchase volume and revenue
 
 ________________________________________
 
-📈 Key Findings
+#📈 Key Findings
 
 1. Strong Top-of-Funnel Engagement
 A total of 10,000 users entered the funnel, indicating strong traffic acquisition performance.
@@ -277,7 +277,7 @@ Email campaigns delivered the highest purchase volume and revenue contribution.
 
 ________________________________________
 
-📌 Recommendations
+#📌 Recommendations
 
 1. Optimize Checkout Experience
    
@@ -335,7 +335,7 @@ Optimize:
 
 ________________________________________
 
-📊 Dashboard Features
+#📊 Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -351,7 +351,7 @@ The Power BI dashboard includes:
 
 ________________________________________
 
-🚀 Business Impact
+#🚀 Business Impact
 
 This analysis provides stakeholders with a clear understanding of customer behavior throughout the purchasing journey and identifies opportunities to improve conversion performance without increasing customer acquisition costs.
 
@@ -359,7 +359,7 @@ By addressing checkout abandonment and strengthening high-performing marketing c
 
 ________________________________________
 
-📁 Repository Structure
+#📁 Repository Structure
 
 Ecommerce-Conversion-Funnel-Analysis
 
@@ -385,7 +385,7 @@ Ecommerce-Conversion-Funnel-Analysis
 
 ________________________________________
 
-👨‍💻 Author
+#👨‍💻 Author
 
 Cosmos Isuru
 
